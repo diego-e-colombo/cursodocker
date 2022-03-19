@@ -18,4 +18,14 @@ Ejercicio 08
 
 >kubectl get all -n ejercicio08
 
-![](terminal02.png)
+![](terminal03.png)
+
+>Como estoy ejecutando en windows con el driver de docker, no puedo acceder directamente al service desde mi host, por lo que voy a entrar en un pod y acceder con Curl desde ahi
+
+>kubectl exec -it -n ejercicio08 pod/password-api-6f57f574bf-gbtmm /bin/bash
+
+>curl password-api:8080
+
+![](terminal04.png)
+
+
