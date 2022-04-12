@@ -37,8 +37,8 @@ Ejercicio 11
 
 ![](Terminal02.png)
 
-![](terminal03.png)
+![](Terminal03.png)
 
-![](terminal04.png)
+![](Terminal04.png)
 
-![](terminal05.png)
+![](Terminal05.png)
