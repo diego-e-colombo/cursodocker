@@ -40,10 +40,10 @@ Ejercicio 10
 >minikube ip
 
 
-![](terminal01.png)
+![](Terminal01.png)
 
-![](terminal02.png)
+![](Terminal02.png)
 
-![](terminal03.png)
+![](Terminal03.png)
 
-![](terminal04.png)
+![](Terminal04.png)
